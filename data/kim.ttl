@@ -1,0 +1,22 @@
+@prefix kim: <https://mynameis/kim#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+kim:City a rdfs:Class .
+
+kim:Name a rdfs:Class ;
+    rdfs:label "Name" .
+
+kim:Person a rdfs:Class .
+
+kim:University a rdfs:Class ;
+    rdfs:subClassOf kim:University .
+
+kim:Age a rdf:Property ;
+    rdfs:label "Age" .
+
+kim:Amsterdam rdfs:label "Amsterdam" ;
+    rdfs:subClassOf kim:City .
+
+kim:Student rdfs:subClassOf kim:Person .
+
