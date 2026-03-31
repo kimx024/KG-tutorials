@@ -15,22 +15,22 @@ Feel free to reach out to the TAs if you have any questions!
 
 ## Tutorials
 part 1: RDF  
-Go through the notebook [rdf-tutorial](rdf-tutorial.ipynb)
+Go through the notebook [rdf-tutorial](TutorialAssignments/rdf-tutorial.ipynb)
 
 part 2: RDFS  
-Go through the notebook [rdfs-tutorial](rdfs-tutorial.ipynb)
+Go through the notebook [rdfs-tutorial](TutorialAssignments/rdfs-tutorial.ipynb)
 
 part 3: OWL  
-Try out the notebooks [OWL-1-tutorial](OWL-1-tutorial.ipynb) and [OWL-2-tutorial](OWL-2-tutorial.ipynb)
+Try out the notebooks [OWL-1-tutorial](TutorialAssignments/OWL-1-tutorial.ipynb) and [OWL-2-tutorial](TutorialAssignments/OWL-2-tutorial.ipynb)
 
 part 4: SPARQL  
-Notebook [SPARQL-tutorial](SPARQL-tutorial.ipynb)
+Notebook [SPARQL-tutorial](TutorialAssignments/SPARQL-tutorial.ipynb)
 
 part 5: RDFstar  
 Notebook [RDFstar-tutorial](ML4KG-tutorial.md)
 
 part 6: Machine Learning over KGs  
-Notebook [ML4KG-tutorial](ML4KG-tutorial.ipynb)
+Notebook [ML4KG-tutorial](TutorialAssignments/ML4KG-tutorial.ipynb)
 
 part 7: Entity Linking and Relation Extraction  
 - [Slides](https://docs.google.com/presentation/d/1wtjZ40dJqWiKyxgsJgApVtcjN_1567MF6RNXHL4eg-s/edit?usp=sharing)

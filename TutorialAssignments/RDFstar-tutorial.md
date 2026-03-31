@@ -54,10 +54,10 @@ Example:
 
 Exercise 3: 
 
-1. Try to draw the example above in a draw.io drawing, in which individuals are represented by circles, and literals in quotes. 
+[1. Try to draw the example above in a draw.io drawing, in which individuals are represented by circles, and literals in quotes. 
 
 2. Can you also represent the statements from exercise 1.2 and 2.2 in an n-ary representation? 
-
+]()
 
 #### 4. RDF-star
 
